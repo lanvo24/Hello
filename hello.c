@@ -12,6 +12,7 @@
 
     printf("Hello world!");
     printf("My name is Lan Vo");
+    printf("this is for testing");
 
     return 0;
  }
