@@ -12,7 +12,10 @@
 
     printf("Hello world!");
     printf("My name is Lan Vo");
-    printf("this is for testing");
+    printf("this is for testing\n");
+
+    printf("My name is Nicholas Dinger\n");
+    printf("My major is Computer Science\n");
 
     return 0;
  }
